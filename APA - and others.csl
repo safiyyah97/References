@@ -60,12 +60,12 @@
   </locale>
   <locale xml:lang="da">
     <terms>
-      <term name="et-al">and others.</term>
+      <term name="and others">and others.</term>
     </terms>
   </locale>
   <locale xml:lang="de">
     <terms>
-      <term name="et-al">and others.</term>
+      <term name="and others">and others.</term>
     </terms>
   </locale>
   <locale xml:lang="es">
@@ -83,17 +83,17 @@
   </locale>
   <locale xml:lang="nb">
     <terms>
-      <term name="et-al">and others.</term>
+      <term name="and others">and others.</term>
     </terms>
   </locale>
   <locale xml:lang="nl">
     <terms>
-      <term name="et-al">and others.</term>
+      <term name="and others">and others.</term>
     </terms>
   </locale>
   <locale xml:lang="nn">
     <terms>
-      <term name="et-al">and others.</term>
+      <term name="and others">and others.</term>
     </terms>
   </locale>
   <macro name="author-bib">
